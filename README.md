@@ -22,6 +22,10 @@ totalmente aleatória.
 
 ## 🚀 Como executar o projeto
 
+Acesse: https://gmsc29.github.io/Amigo-Secreto/
+
+OU
+
 1.  Clone o repositório:
 
     ``` bash
