@@ -48,14 +48,9 @@ totalmente aleatória.
 
 ![Prévia do projeto](assets/amigo-secreto.png)
 
-## ⚠️ Possíveis melhorias
-
--   Impedir nomes duplicados na lista\
--   Permitir remover amigos já adicionados\
--   Criar uma versão responsiva para dispositivos móveis\
--   Salvar a lista de amigos no **localStorage**
-
 ## 👨‍💻 Autor
+
+Gabriel Matheus Soares de Carvalho
 
 Projeto desenvolvido para o desafio **ONE - Oracle Next Education +
 Alura**.
